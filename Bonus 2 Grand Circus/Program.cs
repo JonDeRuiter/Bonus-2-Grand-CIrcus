@@ -28,20 +28,20 @@ namespace Bonus_2_Grand_Circus
             input = Convert.ToString(today.Year + "/" + birthday.Month + "/" + birthday.Day);
             newBirthday = Convert.ToDateTime(input);
             
-            //Uses that brithday to find the difference in years and days
+            //Uses that brithday to find the difference in years
             ageYears = newBirthday.Year - birthday.Year;
-            time = (newBirthday - today);
-            time2 = newBirthday - newBirthday;
+            //time = (newBirthday - today);
+            //time2 = newBirthday - newBirthday;
 
-            input = Convert.ToString(time);
-            Console.WriteLine(input);
+            //input = Convert.ToString(time);
+            //Console.WriteLine(input);
 
-            TimeSpan.Compare(time, time2);
+            //TimeSpan.Compare(time, time2);
 
-            if ()
-            {
+            //if ()
+            //{
 
-            }
+            //}
 
             /*x = int.Parse(input);
             if (x > 0)
