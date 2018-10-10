@@ -1,0 +1,7 @@
+C:\Users\GC Student\Source\Repos\Bonus 2 version 2\Bonus 2 version 2\bin\Debug\Bonus 2 version 2.exe.config
+C:\Users\GC Student\Source\Repos\Bonus 2 version 2\Bonus 2 version 2\bin\Debug\Bonus 2 version 2.exe
+C:\Users\GC Student\Source\Repos\Bonus 2 version 2\Bonus 2 version 2\bin\Debug\Bonus 2 version 2.pdb
+C:\Users\GC Student\Source\Repos\Bonus 2 version 2\Bonus 2 version 2\obj\Debug\Bonus 2 version 2.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Bonus 2 version 2\Bonus 2 version 2\obj\Debug\Bonus 2 version 2.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Bonus 2 version 2\Bonus 2 version 2\obj\Debug\Bonus 2 version 2.exe
+C:\Users\GC Student\Source\Repos\Bonus 2 version 2\Bonus 2 version 2\obj\Debug\Bonus 2 version 2.pdb
